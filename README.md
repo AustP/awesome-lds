@@ -7,6 +7,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 ## Table of Contents
 - [Atonement](#atonement)
 - [Book of Mormon](#book-of-mormon)
+- [Children](#children)
 - [Priesthood](#priesthood)
 - [Prophets](#prophets)
 - [Revelation](#revelation)
@@ -19,6 +20,10 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 
 * [Safety for the Soul](https://www.lds.org/general-conference/2009/10/safety-for-the-soul?lang=eng) - Conference October 2009 - By Elder Jeffrey R. Holland
 
+## Children
+
+* [Protect the Children](https://www.lds.org/general-conference/2012/10/protect-the-children) - Conference October 2009 - By Elder Dallin H. Oaks Of the Quorum of the Twelve Apostles
+
 ## Priesthood
 
 * [The Price of Priesthood Power](https://www.lds.org/general-conference/2016/04/the-price-of-priesthood-power?lang=eng) - Conference April 2016 - By President Russell M. Nelson
@@ -30,3 +35,5 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 ## Revelation
 
 * [The Quest for Spiritual Knowledge](https://www.lds.org/ensign/2007/06/the-quest-for-spiritual-knowledge?lang=eng) - Ensign June 2007 - By Elder Robert S. Wood
+
+
