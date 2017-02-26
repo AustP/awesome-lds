@@ -22,7 +22,7 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 
 ## Children
 
-* [Protect the Children](https://www.lds.org/general-conference/2012/10/protect-the-children) - Conference October 2009 - By Elder Dallin H. Oaks Of the Quorum of the Twelve Apostles
+* [Protect the Children](https://www.lds.org/general-conference/2012/10/protect-the-children) - Conference October 2009 - By Elder Dallin H. Oaks
 
 ## Priesthood
 
