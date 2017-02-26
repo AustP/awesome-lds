@@ -31,6 +31,8 @@ Please see [CONTRIBUTING](https://github.com/austp/awesome-lds/blob/master/CONTR
 ## Prophets
 
 * [Principles from Prophets](https://speeches.byu.edu/talks/thomas-s-monson_principles-prophets-2/) - Devotional September 2009 - By President Thomas S. Monson
+* [The Need for Greater Kindness](https://www.lds.org/general-conference/2006/04/the-need-for-greater-kindness?lang=eng) - General Conference April 2006 - By President Gordon B. Hinckley
+
 
 ## Revelation
 
